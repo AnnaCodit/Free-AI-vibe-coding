@@ -1,8 +1,9 @@
 Fully free 
-- [Opencode](https://opencode.ai/) have good free models inside 
+- [Opencode](https://opencode.ai/) - really good opensource ai-coding tool with unlimited free models inside
+- Many ai-coding tools like Kilocode, Hermes etc have free models inside. Check actual top here: [https://openrouter.ai/apps](https://openrouter.ai/apps)
 - [Freebuff](https://freebuff.com/) - agentic tool which show you ads in order to afford good free models
 - [Nvidia NIM](https://build.nvidia.com/models) - need only phone verification to unlock many good models with generous limits
-- Many ai-coding tools like Kilocode, Hermes etc have free models inside. Check https://openrouter.ai/apps
+- [Mimocode](https://mimo.xiaomi.com/mimocode), [Zcode](http://zcode.z.ai/) - also agents with good models
 
 Kinda free
 - Add 10$ to Openrouter (once) and unlock tons of free models and big limits which you can use with any ai-coding tool
