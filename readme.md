@@ -1,10 +1,13 @@
-Fully free 
-- [Opencode](https://opencode.ai/) - really good opensource ai-coding tool with unlimited free models inside
-- Many ai-coding tools like Kilocode, Hermes etc have free models inside. Check actual top here: [https://openrouter.ai/apps](https://openrouter.ai/apps)
-- [Freebuff](https://freebuff.com/) - agentic tool which show you ads in order to afford good free models
-- [Nvidia NIM](https://build.nvidia.com/models) - need only phone verification to unlock many good models with generous limits
-- [Mimocode](https://mimo.xiaomi.com/mimocode), [Zcode](http://zcode.z.ai/) - also agents with good models
 
-Kinda free
-- Add 10$ to Openrouter (once) and unlock tons of free models and big limits which you can use with any ai-coding tool
-- You can also buy google gemini ai pro subscription (super cheap on digital marketplaces plati/funpay/ggsell, like 10$ for 6/12 month) to get access to top Google model in Gemini CLI tool (upd: they move agent to antigravity, and it have very strong regional restrictions, so check before buy).
+## Полностью бесплатно 
+### Агенты
+- [Opencode](https://opencode.ai/) - хороший опенсорсный ии-агент с кучей безлимитных хороших моделей из коробки.
+- Многие другие агенты типа Kilocode, Hermes и тд имеют внутри доступ к бесплатным моделям. Топ актуальных: [https://openrouter.ai/apps](https://openrouter.ai/apps)
+- [Freebuff](https://freebuff.com/) - агент, показывающий рекламу в своем интерфейсе, но взамен дающий бесплатный доступ к более продвинутым моделям
+### API
+- [Nvidia NIM](https://build.nvidia.com/models) - требует только подтверждение телефона (зарубежный) и дает кучу бесплатных моделей с очень щедрыми лимитами
+- [Google AI Studio](https://aistudio.google.com/rate-limit) - бесплатный доступ к множеству гугловских моделей, но лимиты довольно жесткие, больше на попробовать
+
+## Типа бесплатно 
+- [Openrouter](https://openrouter.ai/) - пополняете на 10$ и получаете до тысячи запросов в день на множество бесплатных моделей
+- Также можно купить подписку Google AI Pro (она супер дешёвая на торговых площадках plati/funpay/ggsell, где-то 10$ за 6–12 месяцев), чтобы получить доступ к топовой модели Google в CLI-утилите Antigravity (но тут очень жесткие региональные ограничения, для нормальной работы надо патчить клиент)
